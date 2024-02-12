@@ -38,6 +38,12 @@ dependencies:
   fl_chart: 0.60.0
   pie_chart: ^5.4.0
   readmore: ^2.2.0
+  dropdown_button2: ^2.3.9
+  image_picker: ^1.0.7
+  intl: ^0.19.0
+  intl_phone_field: ^3.2.0
+  file_picker: ^6.1.1
+  custom_pop_up_menu: ^1.2.4
 
 dev_dependencies:
   flutter_test:
